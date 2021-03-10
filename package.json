@@ -1,0 +1,14 @@
+{
+  "name": "blc-local",
+  "version": "1.0.0",
+  "description": "Local Broken Link Checker",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "broken-link-checker": "^0.7.8"
+  }
+}
